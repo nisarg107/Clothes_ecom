@@ -1,6 +1,7 @@
-# mysqlpractise
+# mysqlflutter
 
-A new Flutter project.
+ Built a feature-rich online store application utilizing a REST API with MySQLi for data persistence. Leveraged XAMPP as the local development server to streamline development and testing. The application's
+ functionalities cater to a smooth online shopping experience, potentially including product browsing, user accounts, secure payment processing, and order management. 
 
 ## Getting Started
 
